@@ -1,4 +1,4 @@
-# Apriori-Algorithm-implementation
+# Apriori-Algorithm-Java-implementation
 
 This repository presents a Java Implementation for the famous algorithm Apriori that extracts the frequent itemsets in a transactional database.
 
